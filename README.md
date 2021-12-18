@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @joedefilippo
-- 👀 I’m interested in empowering enginnering teams.
-- 🌱 I’m currently learning C#.NET Core and Kubernetes.
-- 💞️ I’m looking to collaborate on building tools to enable quality.
-- 📫 How to reach me ...
+- 👀 I’m interested in empowering enginnering teams to write great code and delight their customers.
 
 <!---
 joedefilippo/joedefilippo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
